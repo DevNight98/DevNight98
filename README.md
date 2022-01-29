@@ -1,11 +1,10 @@
 ### Hello my name is Eduardo Vargas 👋
-
+I study Systems Engineering, I am a full stack developer, I live in Mexico City I love video games, programming and digital art
 <!--
 **DevNight98/DevNight98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-I study Systems Engineering, I am a full stack developer, I live in Mexico City I love video games, programming and digital art
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
