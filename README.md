@@ -1,6 +1,6 @@
-### Hi everyone👋
+#### Hi everyone👋
 
-I'm Eduardo Vargas, from Mexico City, study a Computer Systems Engineering, and I'm full stack developer.
+I'm Eduardo Vargas, from Mexico City, study a Computer Systems Engineering, and I'm a full stack developer.
 
 [![about.png](https://i.postimg.cc/8zzKcCMQ/about.png)](https://postimg.cc/zV4SP8x0)
 
