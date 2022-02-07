@@ -2,7 +2,7 @@
 
 I´m Eduardo Vargas, from Mexico City, study Systems Engineering, a full stack developer. I like video games, programming and digital art.
 
-[![Captura-de-pantalla-84.png](https://i.postimg.cc/7hmXVMDP/Captura-de-pantalla-84.png)](https://postimg.cc/cttQ13rP)
+[![Captura-de-pantalla-87.png](https://i.postimg.cc/gkLgC7V8/Captura-de-pantalla-87.png)](https://postimg.cc/PPhbZ2F5)
 <!--
 **DevNight98/DevNight98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
