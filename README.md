@@ -1,8 +1,11 @@
-### Hi, I'm Eduardo Vargas 👋
+### Hi everyone👋
 
-I´m Eduardo Vargas, from Mexico City, study Systems Engineering, a full stack developer. I like video games, programming and digital art.
+I'm Eduardo Vargas, from Mexico City, study a Computer Systems Engineering, and I'm full stack developer.
 
 [![about.png](https://i.postimg.cc/8zzKcCMQ/about.png)](https://postimg.cc/zV4SP8x0)
+
+
+
 <!--
 **DevNight98/DevNight98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
