@@ -1,4 +1,4 @@
-### Hello everyone 👋
+### Hi, I'm Eduardo Vargas 👋
 
 I´m Eduardo Vargas, from Mexico City, study Systems Engineering, a full stack developer. I like video games, programming and digital art.
 
