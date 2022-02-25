@@ -1,7 +1,8 @@
-### Hello 👾
+### Hello👋🏼
 
 My name is Eduardo Vargas, I´m from Mexico City and I'm a full stack developer. 💻
-Currently studied a computer systems engineering.
+
+Currently studied a computer systems engineering. 👾
 
 
 [![about.png](https://i.postimg.cc/8zzKcCMQ/about.png)](https://postimg.cc/zV4SP8x0)
