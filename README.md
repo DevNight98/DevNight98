@@ -6,11 +6,11 @@ Currently studied a computer systems engineering. 👾
 
 [![about.png](https://i.postimg.cc/8zzKcCMQ/about.png)](https://postimg.cc/zV4SP8x0)
 
-## My Stats:
+### My Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduantvarmau&show_icons=true&theme=default)
 
-## My Languajes:
+### My Languajes:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduantvarmau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
