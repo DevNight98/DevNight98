@@ -1,17 +1,22 @@
-### Hello👋🏼
+## Hello👋🏼
 
 My name is Eduardo Vargas, I´m from Mexico City and I'm a full stack developer. 💻
 
 Currently studied a computer systems engineering. 👾
 
-
 [![about.png](https://i.postimg.cc/8zzKcCMQ/about.png)](https://postimg.cc/zV4SP8x0)
+
+## My Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduantvarmau&show_icons=true&theme=default)
 
+## My Languajes:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduantvarmau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-📧 How to reach me: eduant.varmau@gmail.com
+🌱 Ask me about about anything, I am happy to help
+
+📫 How to reach me: eduant.varmau@gmail.com
 
 
 
