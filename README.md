@@ -1,3 +1,5 @@
+![Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
+
 ## Hello world👋🏼
 
 My name is Eduardo Vargas, I´m from Mexico City and I'm a full stack developer. 💻
