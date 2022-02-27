@@ -8,11 +8,11 @@ Currently studied a computer systems engineering. 👾
 
 ### My Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduantvarmau&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduantvarmau&show_icons=true&theme=github_dark)
 
 ### My Languajes:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduantvarmau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduantvarmau&langs_count=8&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 🌱 Ask me about about anything, I am happy to help
 
