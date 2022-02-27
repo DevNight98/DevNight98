@@ -1,6 +1,3 @@
-
-<img align='right' src="https://media.giphy.com/media/J2UKv6Uh1OwTtRKiWV/giphy.gif" width="230">
-
 ## Hello world👋🏼
 
 My name is Eduardo Vargas, I´m from Mexico City and I'm a full stack developer. 💻
