@@ -4,7 +4,20 @@ My name is Eduardo Vargas, I´m from Mexico City and I'm a full stack developer.
 
 Currently studied a computer systems engineering. 👾
 
-[![about.png](https://i.postimg.cc/8zzKcCMQ/about.png)](https://postimg.cc/zV4SP8x0)
+```javascript
+const laloVargas = {
+    pronouns: 'he' | 'his',
+    nickname : 'Иight',
+    code: ['Javascript', 'Java', 'HTML5', 'CSS3', 'Python', 'C++'],
+    tools: ['React', 'Node'],
+    areas: ['Web development', 'Video games development'],
+    hobbies: ['Programming', "Digital art"],
+    techCommunities: {
+      student: "Launch X | Microsoft"
+    },
+   challenge: "Develop a video game"
+  }
+```
 
 ### My Stats:
 
@@ -17,6 +30,7 @@ Currently studied a computer systems engineering. 👾
 🌱 Ask me about about anything, I am happy to help
 
 📫 How to reach me: eduant.varmau@gmail.com
+
 
 
 
