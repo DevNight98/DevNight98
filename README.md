@@ -1,8 +1,17 @@
+
+<img align='right' src="https://media.giphy.com/media/J2UKv6Uh1OwTtRKiWV/giphy.gif" width="230">
+
 ## Hello world👋🏼
 
 My name is Eduardo Vargas, I´m from Mexico City and I'm a full stack developer. 💻
 
 Currently studied a computer systems engineering. 👾
+
+[![Twitter: eduantvarmau](https://img.shields.io/twitter/follow/eduantvarmau?style=social)](https://twitter.com/eduantvarmau)
+[![Linkedin: eduantvarmau](https://img.shields.io/badge/-eduantvarmau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduantvarmau/)](https://www.linkedin.com/in/eduantvarmau/)
+[![GitHub eduantvarmau](https://img.shields.io/github/followers/eduantvarmau?label=follow&style=social)](https://github.com/FernandaOchoa)
+
+## More about me:
 
 ```javascript
 const laloVargas = {
@@ -31,7 +40,9 @@ const laloVargas = {
 
 📫 How to reach me: eduant.varmau@gmail.com
 
+---
 
+⭐ By [@eduantvarmau](https://github.com/eduantvarmau)
 
 
 
