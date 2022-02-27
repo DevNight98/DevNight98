@@ -1,6 +1,6 @@
 ## Hello world👋🏼
 
-My name is Eduardo Vargas, I´m from Mexico City and I'm a full stack developer. 💻
+My name is Eduardo Vargas, I´m from Mexico City and I'm a FullStack developer. 💻
 
 Currently studied a computer systems engineering. 👾
 
