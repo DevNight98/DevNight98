@@ -20,7 +20,9 @@ const laloVargas = {
     hobbies: ['Programming', "Digital art"],
     techCommunities: {
       student: "Launch X | Microsoft",
-      student: "Generation México"
+      student: "Generation México",
+      student: "DEV.F",
+      student: "Videogames Academy"
     },
    challenge: "Develop a video game"
   }
