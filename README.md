@@ -1,9 +1,9 @@
 ### Hello world <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="25px"> 
 
-My name is Eduardo Vargas, I´m from Mexico City and I'm a FullStack developer. 💻
+My name is Eduardo Vargas, I´m from Mexico City and I'm a FullStack developer. <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="35px"> 
 
-Currently studied a computer systems engineering. 👾
 
+Currently studied a computer systems engineering. <img src="http://pa1.narvii.com/6708/b25eb309d98af70a11ccf928c233f619d8a910c2_00.gif" width="35px"> 
 
 
 ### More about me: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">
