@@ -1,14 +1,16 @@
-## Hello world👋🏼
+
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+
+
+### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="25px"> Hello world
 
 My name is Eduardo Vargas, I´m from Mexico City and I'm a FullStack developer. 💻
 
 Currently studied a computer systems engineering. 👾
 
-[![Twitter: eduantvarmau](https://img.shields.io/twitter/follow/eduantvarmau?style=social)](https://twitter.com/eduantvarmau)
-[![Linkedin: eduantvarmau](https://img.shields.io/badge/-eduantvarmau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduantvarmau/)](https://www.linkedin.com/in/eduantvarmau/)
-[![GitHub eduantvarmau](https://img.shields.io/github/followers/eduantvarmau?label=follow&style=social)](https://github.com/FernandaOchoa)
 
-## More about me:
+
+### More about me: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">
 
 ```javascript
 const laloVargas = {
@@ -28,36 +30,28 @@ const laloVargas = {
   }
 ```
 
-### My Stats:
+### My Stats: <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="35px" /> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduantvarmau&show_icons=true&theme=github_dark)
 
-### My Languajes:
+
+
+### My Languajes: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduantvarmau&langs_count=8&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### Connect with me: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="25px">
+
 🌱 Ask me about about anything, I am happy to help
 
-📫 How to reach me: eduant.varmau@gmail.com
+[![Linkedin: eduantvarmau](https://img.shields.io/badge/-eduantvarmau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduantvarmau/)](https://www.linkedin.com/in/eduantvarmau/)
+[![Gmail Badge](https://img.shields.io/badge/-eduant.varmau@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduant.varmau@gmail.com)](mailto:ashwanicena5@gmail.com) 
+[![GitHub eduantvarmau](https://img.shields.io/github/followers/eduantvarmau?label=follow&style=social)](https://github.com/eduantvarmau)
+[![Twitter: eduantvarmau](https://img.shields.io/twitter/follow/eduantvarmau?style=social)](https://twitter.com/eduantvarmau)
+
+
+
 
 ---
 
-⭐ By [@eduantvarmau](https://github.com/eduantvarmau)
-
-
-
-<!--
-**DevNight98/DevNight98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ From [@eduantvarmau](https://github.com/eduantvarmau)
