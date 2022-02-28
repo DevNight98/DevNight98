@@ -1,4 +1,4 @@
-### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="25px"> Hello world 
+### Hello world <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="25px"> 
 
 My name is Eduardo Vargas, I´m from Mexico City and I'm a FullStack developer. 💻
 
