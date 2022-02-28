@@ -32,7 +32,7 @@ const laloVargas = {
 
 
 
-### My Languajes: <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="40">
+### My Languajes: <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="30">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduantvarmau&langs_count=8&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
