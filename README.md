@@ -1,7 +1,4 @@
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="200">
-
-
-### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="25px"> Hello world
+### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="25px"> Hello world <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="200">
 
 My name is Eduardo Vargas, I´m from Mexico City and I'm a FullStack developer. 💻
 
