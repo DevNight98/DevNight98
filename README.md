@@ -26,7 +26,7 @@ const laloVargas = {
   }
 ```
 
-### My Stats: <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="35px" /> 
+### My Stats: <img src="https://i.gifer.com/origin/24/2432cf5ff737ad7d1794a29d042eb02e_w200.gif" width="35px" /> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduantvarmau&show_icons=true&theme=github_dark)
 
@@ -38,11 +38,11 @@ const laloVargas = {
 
 ### Connect with me: <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />
 
-Ask me about about anything, I am happy to help  <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="25px">
+Ask me about about anything, I am happy to help.  <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="25px">
 
 [![Linkedin: eduantvarmau](https://img.shields.io/badge/-eduantvarmau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduantvarmau/)](https://www.linkedin.com/in/eduantvarmau/)
 [![Gmail Badge](https://img.shields.io/badge/-eduant.varmau@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduant.varmau@gmail.com)](mailto:ashwanicena5@gmail.com) 
 [![GitHub eduantvarmau](https://img.shields.io/github/followers/eduantvarmau?label=follow&style=social)](https://github.com/eduantvarmau)
 [![Twitter: eduantvarmau](https://img.shields.io/twitter/follow/eduantvarmau?style=social)](https://twitter.com/eduantvarmau)
 
-From [@eduantvarmau](https://github.com/eduantvarmau)  <img width="25px" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" /> 
+From [@eduantvarmau](https://github.com/eduantvarmau)  <img width="25px" alt="Github Image" src="https://media.giphy.com/media/CN8RJQ9PWBk5y/giphy.gif" /> 
