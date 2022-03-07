@@ -17,6 +17,7 @@ const laloVargas = {
     areas: ['Web development', 'Video games development'],
     hobbies: ['Programming', "Digital art"],
     techCommunities: {
+      founder: "Chmod 777",
       student: "Launch X | Microsoft",
       student: "Generation México",
       student: "DEV.F",
