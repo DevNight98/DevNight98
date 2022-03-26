@@ -21,6 +21,7 @@ const laloVargas = {
       student: "Launch X | Microsoft",
       student: "Generation México",
       student: "DEV.F",
+      student: "Oracle Next Education | Alura",
       student: "Videogames Academy"
     },
    challenge: "Develop a video game"
