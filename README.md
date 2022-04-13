@@ -17,15 +17,15 @@ const laloVargas = {
     areas: ['Web development', 'Video games development', 'UX/UI', 'Cloud'],
     hobbies: ['Programming', 'Digital art'],
     techCommunities: {
-      founder: "Chmod 777",
-      student: "Launch X | Microsoft",
-      student: "Generation México",
-      student: "DEV.F",
-      student: "Oracle Next Education | Alura",
-      student: "Bedu",
-      student: "Videogames Academy"
+      founder: 'Chmod 777',
+      student: 'Launch X | Microsoft",
+      student: 'Generation México',
+      student: 'DEV.F',
+      student: 'Oracle Next Education | Alura',
+      student: 'Bedu",
+      student: 'Videogames Academy'
     },
-   challenge: "Develop a video game"
+   challenge: 'Develop a video game"
   }
 ```
 
