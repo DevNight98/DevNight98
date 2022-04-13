@@ -1,5 +1,5 @@
 <h2> Hello world <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="25px"></h2>
-<img align='right' src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="230" height="150">
+<img align='right' src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="230" height="140">
 
 My name is Eduardo Vargas, I’m a FullStack developer, I live in Mexico City. <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="35px"> <br>
 I’m currently studying Computer Systems Engineering a Virtual University of Guanajuato. <img src="http://pa1.narvii.com/6708/b25eb309d98af70a11ccf928c233f619d8a910c2_00.gif" width="35px"> 
