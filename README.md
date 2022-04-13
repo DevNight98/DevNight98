@@ -25,7 +25,7 @@ const laloVargas = {
       student: 'Bedu',
       student: 'Videogames Academy'
     },
-   challenge: 'Develop a video game"
+   challenge: 'Develop a video game'
   }
 ```
 
