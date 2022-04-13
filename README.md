@@ -10,18 +10,19 @@ Currently studied a computer systems engineering. <img src="http://pa1.narvii.co
 
 ```javascript
 const laloVargas = {
-    pronouns: 'he' | 'his',
+    pronouns: 'he' | 'him',
     nickname : 'Иight',
     code: ['Javascript', 'Java', 'HTML5', 'CSS3', 'Python', 'C++'],
     tools: ['React', 'Node'],
-    areas: ['Web development', 'Video games development'],
-    hobbies: ['Programming', "Digital art"],
+    areas: ['Web development', 'Video games development', 'UX/UI', Cloud'],
+    hobbies: ['Programming', 'Digital art'],
     techCommunities: {
       founder: "Chmod 777",
       student: "Launch X | Microsoft",
       student: "Generation México",
       student: "DEV.F",
       student: "Oracle Next Education | Alura",
+      student: "Bedu"
       student: "Videogames Academy"
     },
    challenge: "Develop a video game"
