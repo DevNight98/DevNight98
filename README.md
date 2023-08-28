@@ -10,8 +10,8 @@ I’m currently studying Computer Systems Engineering at Anáhuac University and
 const Edu = {
     pronouns: 'he' | 'him',
     nickname : 'Devnight.exe',
-    backtEnd: ['Spring Boot', 'Node.js', 'Python', 'C++'],
-    fronttEnd: ['HTML5', 'CSS','React', 'Bootstrap'],
+    backEnd: ['Spring Boot', 'Node.js', 'Python', 'C++'],
+    frontEnd: ['HTML5', 'CSS','React', 'Bootstrap'],
     database: ['SQL', 'NoSQL'],
     tools: ['Docker', 'OpenShift', 'Jenkins'],
     lowCodeTools ['Canva', 'Notion', 'Figma'],
