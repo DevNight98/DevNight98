@@ -16,13 +16,13 @@ const Edu = {
     tools: ['Docker', 'OpenShift', 'Jenkins'],
     lowCodeTools ['Canva', 'Notion', 'Figma'],
     cloud: ['AWS', 'Azure'],
-    areas: ['Backend', 'Web development', 'Cloud', 'Data', 'UX/UI', 'Video games development'],
+    areas: ['Web development', 'Cloud', 'Data', 'UX/UI', 'Video games development'],
     techCommunities: {
       graduate: 'Launch X | Microsoft',
       graduate: 'Generation Mexico',
       graduate: 'DEV.F',
     },
-challenge: 'Develop a video game
+challenge: 'Develop a video game.'
   }
 ```
 
