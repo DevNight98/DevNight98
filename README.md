@@ -18,7 +18,7 @@ const Edu = {
     cloud: ['AWS', 'Azure'],
     areas: ['Web development', 'Cloud', 'Data', 'UX/UI', 'Video games development'],
     techCommunities: {
-      graduate: 'Launch X | Microsoft',
+      graduate: 'Launch X Microsoft',
       graduate: 'Generation Mexico',
       graduate: 'DEV.F',
     },
