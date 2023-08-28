@@ -7,16 +7,16 @@ I’m currently studying Computer Systems Engineering at Anáhuac University and
 ### More about me: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">
 
 ```javascript
-const laloVargas = {
+const Edu = {
     pronouns: 'he' | 'him',
-    nickname : 'Иight',
+    nickname : 'Devnight.exe',
     code: ['Java', 'Javascript', 'HTML5', 'Python', 'CSS3', 'C++'],
-    tools: ['React', 'Node'],
-    areas: ['Web development', 'Video games development', 'UX/UI', 'Cloud'],
-    hobbies: ['Programming', 'Digital art'],
+    Frameworks Tools: ['React', 'Bootstrap'],
+    cloud: ['AWS', 'Azure'],
+    areas: ['Backend', 'Web development', 'Cloud', 'Data', 'UX/UI', 'Video games development'],
     techCommunities: {
       graduate: 'Launch X | Microsoft',
-      graduate: 'Generation México',
+      graduate: 'Generation Mexico',
       graduate: 'DEV.F',
     },
    challenge: 'Develop a video game'
