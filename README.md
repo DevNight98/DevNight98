@@ -10,9 +10,9 @@ I’m currently studying Computer Systems Engineering at Anáhuac University and
 const Edu = {
     pronouns: 'he' | 'him',
     nickname : 'Devnight.exe',
-    code: ['Spring Boot', 'Node.js', 'Python', 'C++','HTML5', 'CSS'],
+    backtEnd: ['Spring Boot', 'Node.js', 'Python', 'C++'],
+    fronttEnd: ['HTML5', 'CSS','React', 'Bootstrap'],
     database: ['SQL', 'NoSQL'],
-    frameworks: ['React', 'Bootstrap'],
     tools: ['Docker', 'OpenShift', 'Jenkins'],
     lowCodeTools ['Canva', 'Notion', 'Figma'],
     cloud: ['AWS', 'Azure'],
