@@ -9,7 +9,7 @@ I’m currently studying Computer Systems Engineering at Anáhuac University and
 ```javascript
 const Edu = {
     pronouns: 'he' | 'him',
-    nickname : 'Devnight.exe',
+    nickname: 'Devnight.exe',
     backEnd: ['Spring Boot', 'Node.js', 'Python', 'C++'],
     frontEnd: ['HTML5', 'CSS','React', 'Bootstrap'],
     database: ['SQL', 'NoSQL'],
@@ -23,7 +23,7 @@ const Edu = {
       graduate: 'DEV.F',
     },
 challenge: 'Develop a video game.'
-  }
+}
 ```
 
 ### My Stats: <img src="https://i.gifer.com/origin/24/2432cf5ff737ad7d1794a29d042eb02e_w200.gif" width="35px" /> 
