@@ -4,7 +4,7 @@
 My name is Eduardo Vargas, I’m a FullStack developer, I live in Mexico City. <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="35px"> <br>
 I’m currently studying Computer Systems Engineering at Anáhuac University and Computer Systems Engineering at UVM. <img src="http://pa1.narvii.com/6708/b25eb309d98af70a11ccf928c233f619d8a910c2_00.gif" width="35px"> 
 
-### A little more about me...: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">
+### A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">
 
 ```javascript
 const Edu = {
